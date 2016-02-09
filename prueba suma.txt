@@ -1,0 +1,8 @@
+test suma de 2 numeros naturales
+
+para probar esta funcion, realizamos una diferentes pruebas, donde se tienen que cumplir:
+
+   2 + 2 = 4
+   5 + 3 = 8
+   25 + 20 = 45
+   
