@@ -1,0 +1,5 @@
+en este sprint nos comprometemos a entragar las historias de usuario 1, 2 y 3
+
+sumar
+restar
+error resta
