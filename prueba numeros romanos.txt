@@ -1,0 +1,12 @@
+test numeros romanos
+
+para probar esta funcion, realizamos una diferentes pruebas, donde se tienen que cumplir:
+
+   3 = III
+   5 = V
+   10 = X
+   50 = L
+   100 = C
+   500 = D
+   1000 = M
+   
