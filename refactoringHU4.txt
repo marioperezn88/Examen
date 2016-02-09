@@ -1,0 +1,2 @@
+una vez realizados los test y la programacion de cada funcionalidad realizamos una tarea de refactoring para tratar de mejorar el codigo
+y asi terminar la historia de usuario 4 (multiplicar)
